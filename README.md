@@ -1,5 +1,11 @@
 # Awesome Cursor Rules [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+## About
+- **What it is:** A copy of a public list of rule files that tell the Cursor AI code editor how to write code.
+- **Business:** learning
+- **Status:** inactive since 2025-10
+- **Source:** agent research 2026-11-04
+
 <p align="center">
   <a href="https://coderabbit.ai/?utm_source=oss&utm_medium=sponsorship&utm_campaign=awesome-cursorrules" target="_blank">
     <picture>
