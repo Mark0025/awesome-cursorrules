@@ -6,19 +6,6 @@
 - **Status:** inactive since 2025-10
 - **Source:** agent research 2026-11-04
 
-<p align="center">
-  <a href="https://coderabbit.ai/?utm_source=oss&utm_medium=sponsorship&utm_campaign=awesome-cursorrules" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./LOCKUP_VERTICAL_25D_DARK.png">
-      <img alt="Awesome Cursor Logo" src="./LOCKUP_VERTICAL_25D_LIGHT.png">
-    </picture>
-  </a>
-</p>
-
-Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
-
-[Cursor AI](https://cursor.sh/) is an AI-powered code editor. `.cursorrules` files define custom rules for Cursor AI to follow when generating code, allowing you to tailor its behavior to your specific needs and preferences.
-
 ## Sponsorships
 <p align="center">
     <h3><a href="https://go.warp.dev/awesome-cursorrules">Warp - Built for coding with multiple AI agents</h3>
